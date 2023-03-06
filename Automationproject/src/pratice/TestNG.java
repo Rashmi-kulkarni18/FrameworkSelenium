@@ -20,6 +20,8 @@ public class TestNG {
 	System.out.println("deleted");
 	}
 	//pushed
+	
+	//pulled.......
 
 
 
